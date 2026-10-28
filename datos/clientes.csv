@@ -1,0 +1,66 @@
+id_cliente;nombre;ciudad;segmento
+C-052;Valentina Ramirez; Medellin;Consumidor
+C-056;Valentina Rodriguez;medellin;Consumidor
+C-047;Ricardo Vargas;Medellin;Pyme
+C-003;Ricardo Castro;medellin;Pyme
+C-048;Felipe Ramirez;CALI;Pyme
+C-054;Laura Martinez;Barranquilla;Consumidor
+C-022;Jorge Moreno;MEDELLIN;
+C-027;Andres Lopez; Barranquilla;Consumidor
+C-045;Valentina Lopez;Barranquilla;Consumidor
+C-041;Paula Moreno;MEDELLIN;Pyme
+C-037;Camila Rodriguez; Bogota;Pyme
+C-040;Jorge Gomez;BOGOTA;Consumidor
+C-049;Ricardo Ramirez; Medellin;Corporativo
+C-036;Carlos Rodriguez; Cali;Corporativo
+C-028;Ricardo Martinez;MEDELLIN;Corporativo
+C-059;Jorge Vargas; Medellin;Corporativo
+C-051;Miguel Lopez;bogota;
+C-004;Camila Rodriguez; Medellin;Consumidor
+C-032;Miguel Vargas;CALI;Corporativo
+C-025;Ana Rodriguez;MEDELLIN;Pyme
+C-011;Felipe Lopez; Medellin;Corporativo
+C-058;Diana Castro;CALI;Pyme
+C-020;Ana Castro;Barranquilla;Corporativo
+C-034;Miguel Ramirez; Cali;Pyme
+C-042;Laura Castro; Cali;Pyme
+C-018;Diana Castro;Cali;Corporativo
+C-057;Ricardo Torres;Medellin;Pyme
+C-055;Jorge Martinez;CALI;Pyme
+C-050;Felipe Diaz;BOGOTA;Consumidor
+C-035;Paula Moreno;CALI;
+C-042;Laura Castro; Cali;Pyme
+C-053;Andres Ramirez; Bogota;Consumidor
+C-040;Jorge Gomez;BOGOTA;Consumidor
+C-014;Felipe Rodriguez;BOGOTA;
+C-023;Felipe Rodriguez;Bogota;Consumidor
+C-033;Paula Rodriguez;MEDELLIN;
+C-031;Camila Moreno; Bogota;Consumidor
+C-039;Carlos Diaz;bogota;Corporativo
+C-024;Ricardo Torres;Bogota;Corporativo
+C-005;Diana Vargas; Medellin;Pyme
+C-015;Diana Moreno;medellin;Corporativo
+C-030;Ana Lopez;Barranquilla;Pyme
+C-029;Diana Torres;Barranquilla;Consumidor
+C-043;Paula Ramirez;CALI;Pyme
+C-060;Diana Martinez;medellin;
+C-049;Ricardo Ramirez; Medellin;Corporativo
+C-019;Paula Martinez;medellin;Consumidor
+C-051;Miguel Lopez;bogota;
+C-021;Camila Martinez;Medellin;Corporativo
+C-026;Diana Moreno;cali;Consumidor
+C-007;Miguel Diaz;cali;Pyme
+C-046;Jorge Ramirez;BARRANQUILLA;Pyme
+C-008;Paula Diaz;CALI;Pyme
+C-003;Ricardo Castro;medellin;Pyme
+C-002;Ricardo Ramirez; Medellin;Consumidor
+C-017;Valentina Diaz;Medellin;Pyme
+C-001;Andres Martinez;CALI;Pyme
+C-016;Laura Lopez;barranquilla;Pyme
+C-006;Valentina Diaz;Barranquilla;Corporativo
+C-012;Miguel Moreno;medellin;Pyme
+C-010;Camila Torres;Barranquilla;Consumidor
+C-009;Jorge Lopez;BOGOTA;Pyme
+C-013;Miguel Moreno;MEDELLIN;Corporativo
+C-044;Jorge Diaz;barranquilla;Consumidor
+C-038;Jorge Rodriguez;CALI;Consumidor
