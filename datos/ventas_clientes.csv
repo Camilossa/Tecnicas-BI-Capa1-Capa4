@@ -1,0 +1,454 @@
+,id_venta,fecha,id_cliente,id_producto,producto,categoria,cantidad,precio_unitario,ciudad_x,nombre,ciudad_y,segmento
+0,V-1379,2024-11-26,C-046,P-002,Laptop Air 13,computo,1,3100000,Barranquilla,Jorge Ramirez,BARRANQUILLA,Pyme
+1,V-1166,13/01/2024,C-021,P-004,Teclado Mecanico,ACCESORIOS,1,290000,Cali,Camila Martinez,Medellin,Corporativo
+2,V-1018,2024-12-07,C-033,P-008,Smartphone X12,Telefonia ,1,2800000,Barranquilla,Paula Rodriguez,MEDELLIN,
+3,V-1180,2024-09-10,C-007,P-002,Laptop Air 13,Computo ,1,3100000,Barranquilla,Miguel Diaz,cali,Pyme
+4,V-1005,2024-05-21,C-043,P-009,Smartphone Lite,Telefonia ,2,1150000,Cali,Paula Ramirez,CALI,Pyme
+5,V-1250,2024-07-24,C-013,P-004,Teclado Mecanico,ACCESORIOS,-1,290000,Bogota,Miguel Moreno,MEDELLIN,Corporativo
+6,V-1214,2024-04-09,C-050,P-002,Laptop Air 13,COMPUTO,2,3100000,Bogota,Felipe Diaz,BOGOTA,Consumidor
+7,V-1362,2024-08-11,C-010,P-010,Tablet 11,computo,4,$ 1.900.000,,Camila Torres,Barranquilla,Consumidor
+8,V-1335,2024-08-24,C-008,P-010,Tablet 11,Computo ,4,$ 1.900.000,Barranquilla,Paula Diaz,CALI,Pyme
+9,V-1006,,C-020,P-006,Audifonos,audio,1,350000,Bogota,Ana Castro,Barranquilla,Corporativo
+10,V-1118,18/11/2024,C-051,P-008,Smartphone X12,Telefonia ,3,2800000,Bogota,Miguel Lopez,bogota,
+11,V-1118,18/11/2024,C-051,P-008,Smartphone X12,Telefonia ,3,2800000,Bogota,Miguel Lopez,bogota,
+12,V-1247,2024-08-22,C-036,P-008,Smartphone X12,Telefonia ,4,$ 2.800.000,Cali,Carlos Rodriguez, Cali,Corporativo
+13,V-1268,,C-011,P-001,Laptop Pro 14,COMPUTO,1,4200000,Medellin,Felipe Lopez, Medellin,Corporativo
+14,V-1372,2024-07-13,C-058,P-010,Tablet 11,Computo ,1,1900000,Barranquilla,Diana Castro,CALI,Pyme
+15,V-1128,2024-06-20,C-018,P-006,Audifonos,Audio ,1,$ 350.000,Barranquilla,Diana Castro,Cali,Corporativo
+16,V-1202,2024-01-22,C-017,P-009,Smartphone Lite,Telefonia,4,1150000,Bogota,Valentina Diaz,Medellin,Pyme
+17,V-1233,01/03/2024,C-041,P-002,Laptop Air 13,Computo ,3,3100000,Barranquilla,Paula Moreno,MEDELLIN,Pyme
+18,V-1315,14/05/2024,C-021,P-001,Laptop Pro 14,Computo,3,4200000,Barranquilla,Camila Martinez,Medellin,Corporativo
+19,V-1068,12/11/2024,C-015,P-002,Laptop Air 13,computo,1,3100000,Barranquilla,Diana Moreno,medellin,Corporativo
+20,V-1192,16/12/2024,C-011,P-004,Teclado Mecanico,Accesorios ,1,$ 290.000,Cali,Felipe Lopez, Medellin,Corporativo
+21,V-1321,2024-04-02,C-033,P-002,Laptop Air 13,Computo,4,3100000,Medellin,Paula Rodriguez,MEDELLIN,
+22,V-1368,,C-042,P-006,Audifonos,Audio,4,350000,Cali,Laura Castro, Cali,Pyme
+23,V-1368,,C-042,P-006,Audifonos,Audio,4,350000,Cali,Laura Castro, Cali,Pyme
+24,V-1225,2024-09-23,C-052,P-007,Parlante Portatil,audio,1,420000,Barranquilla,Valentina Ramirez, Medellin,Consumidor
+25,V-1030,2024-02-27,C-007,P-001,Laptop Pro 14,Computo,1,4200000,Bogota,Miguel Diaz,cali,Pyme
+26,V-1257,19/05/2024,C-022,P-010,Tablet 11,COMPUTO,4,1900000,Barranquilla,Jorge Moreno,MEDELLIN,
+27,V-1278,2024-11-25,C-052,P-006,Audifonos,Audio,3,350000,Bogota,Valentina Ramirez, Medellin,Consumidor
+28,V-1373,,C-050,P-004,Teclado Mecanico,Accesorios,1,290000,Barranquilla,Felipe Diaz,BOGOTA,Consumidor
+29,V-1340,11/01/2024,C-011,P-010,Tablet 11,computo,0,1900000,Bogota,Felipe Lopez, Medellin,Corporativo
+30,V-1198,2024-08-14,C-001,P-002,Laptop Air 13,computo,3,3100000,Medellin,Andres Martinez,CALI,Pyme
+31,V-1228,2024-07-26,C-011,P-008,Smartphone X12,TELEFONIA,2,2800000,Bogota,Felipe Lopez, Medellin,Corporativo
+32,V-1181,03/08/2024,C-011,P-002,Laptop Air 13,COMPUTO,2,3100000,Cali,Felipe Lopez, Medellin,Corporativo
+33,V-1274,2024-12-04,C-043,P-006,Audifonos,Audio ,1,350000,Bogota,Paula Ramirez,CALI,Pyme
+34,V-1382,2024-07-25,C-002,P-002,Laptop Air 13,computo,1,3100000,Cali,Ricardo Ramirez, Medellin,Consumidor
+35,V-1300,04/12/2024,C-003,P-010,Tablet 11,Computo,1,$ 1.900.000,Bogota,Ricardo Castro,medellin,Pyme
+36,V-1300,04/12/2024,C-003,P-010,Tablet 11,Computo,1,$ 1.900.000,Bogota,Ricardo Castro,medellin,Pyme
+37,V-1360,2024-07-08,C-012,P-003,Monitor 27,Computo,2,$ 1.450.000,Barranquilla,Miguel Moreno,medellin,Pyme
+38,V-1291,07/02/2024,C-003,P-006,Audifonos,Audio ,4,350000,Barranquilla,Ricardo Castro,medellin,Pyme
+39,V-1291,07/02/2024,C-003,P-006,Audifonos,Audio ,4,350000,Barranquilla,Ricardo Castro,medellin,Pyme
+40,V-1048,2024-04-07,C-019,P-008,Smartphone X12,Telefonia ,-1,2800000,Bogota,Paula Martinez,medellin,Consumidor
+41,V-1339,22/06/2024,C-017,P-005,Mouse Inalambrico,accesorios,1,120000,Bogota,Valentina Diaz,Medellin,Pyme
+42,V-1243,2024-09-20,C-045,P-007,Parlante Portatil,Audio ,1,420000,Cali,Valentina Lopez,Barranquilla,Consumidor
+43,V-1163,2024-04-10,C-059,P-009,Smartphone Lite,TELEFONIA,1,$ 1.150.000,Medellin,Jorge Vargas, Medellin,Corporativo
+44,V-1169,12/06/2024,C-003,P-003,Monitor 27,Computo ,4,1450000,Barranquilla,Ricardo Castro,medellin,Pyme
+45,V-1169,12/06/2024,C-003,P-003,Monitor 27,Computo ,4,1450000,Barranquilla,Ricardo Castro,medellin,Pyme
+46,V-1108,2024-08-26,C-029,P-005,Mouse Inalambrico,Accesorios,4,120000,Cali,Diana Torres,Barranquilla,Consumidor
+47,V-1367,2024-12-04,C-032,P-006,Audifonos,AUDIO,1,$ 350.000,Cali,Miguel Vargas,CALI,Corporativo
+48,V-1375,2024-12-16,C-028,P-008,Smartphone X12,Telefonia ,3,2800000,Barranquilla,Ricardo Martinez,MEDELLIN,Corporativo
+49,V-1086,,C-052,P-003,Monitor 27,Computo,4,1450000,Cali,Valentina Ramirez, Medellin,Consumidor
+50,V-1330,2024-06-28,C-003,P-007,Parlante Portatil,Audio,2,420000,Medellin,Ricardo Castro,medellin,Pyme
+51,V-1330,2024-06-28,C-003,P-007,Parlante Portatil,Audio,2,420000,Medellin,Ricardo Castro,medellin,Pyme
+52,V-1357,09/02/2024,C-018,P-010,Tablet 11,Computo ,2,1900000,Bogota,Diana Castro,Cali,Corporativo
+53,V-1133,16/03/2024,C-028,P-005,Mouse Inalambrico,accesorios,2,120000,Medellin,Ricardo Martinez,MEDELLIN,Corporativo
+54,V-1325,2024-05-11,C-027,P-010,Tablet 11,COMPUTO,1,$ 1.900.000,Medellin,Andres Lopez, Barranquilla,Consumidor
+55,V-1293,2024-06-10,C-038,P-006,Audifonos,AUDIO,0,350000,Medellin,Jorge Rodriguez,CALI,Consumidor
+56,V-1007,2024-06-20,C-017,P-001,Laptop Pro 14,Computo,2,4200000,Bogota,Valentina Diaz,Medellin,Pyme
+57,V-1273,01/06/2024,C-043,P-002,Laptop Air 13,Computo,3,3100000,Medellin,Paula Ramirez,CALI,Pyme
+58,V-1231,2024-07-19,C-043,P-006,Audifonos,Audio ,-1,350000,Medellin,Paula Ramirez,CALI,Pyme
+59,V-1120,2024-03-26,C-038,P-003,Monitor 27,Computo ,4,1450000,Cali,Jorge Rodriguez,CALI,Consumidor
+60,V-1063,24/12/2024,C-017,P-002,Laptop Air 13,COMPUTO,1,3100000,Cali,Valentina Diaz,Medellin,Pyme
+61,V-1228,2024-07-26,C-011,P-008,Smartphone X12,TELEFONIA,2,2800000,Bogota,Felipe Lopez, Medellin,Corporativo
+62,V-1230,21/11/2024,C-021,P-005,Mouse Inalambrico,accesorios,2,120000,Barranquilla,Camila Martinez,Medellin,Corporativo
+63,V-1258,2024-12-20,C-027,P-003,Monitor 27,Computo,1,1450000,Cali,Andres Lopez, Barranquilla,Consumidor
+64,V-1162,2024-11-04,C-023,P-009,Smartphone Lite,telefonia,4,1150000,Medellin,Felipe Rodriguez,Bogota,Consumidor
+65,V-1395,25/07/2024,C-036,P-008,Smartphone X12,Telefonia,1,2800000,Medellin,Carlos Rodriguez, Cali,Corporativo
+66,V-1066,2024-01-23,C-040,P-004,Teclado Mecanico,accesorios,4,290000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+67,V-1066,2024-01-23,C-040,P-004,Teclado Mecanico,accesorios,4,290000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+68,V-1351,2024-03-06,C-050,P-008,Smartphone X12,Telefonia,2,$ 2.800.000,Cali,Felipe Diaz,BOGOTA,Consumidor
+69,V-1079,2024-04-05,C-030,P-008,Smartphone X12,Telefonia,2,2800000,Medellin,Ana Lopez,Barranquilla,Pyme
+70,V-1160,2024-07-05,C-016,P-007,Parlante Portatil,audio,1,420000,Bogota,Laura Lopez,barranquilla,Pyme
+71,V-1186,2024-01-12,C-058,P-004,Teclado Mecanico,Accesorios ,4,$ 290.000,Barranquilla,Diana Castro,CALI,Pyme
+72,V-1059,20/05/2024,C-054,P-003,Monitor 27,computo,2,1450000,Medellin,Laura Martinez,Barranquilla,Consumidor
+73,V-1262,2024-02-22,C-039,P-008,Smartphone X12,telefonia,3,2800000,Barranquilla,Carlos Diaz,bogota,Corporativo
+74,V-1140,2024-04-16,C-057,P-008,Smartphone X12,telefonia,4,$ 2.800.000,Barranquilla,Ricardo Torres,Medellin,Pyme
+75,V-1081,2024-06-03,C-029,P-005,Mouse Inalambrico,accesorios,1,120000,Cali,Diana Torres,Barranquilla,Consumidor
+76,V-1190,08/05/2024,C-008,P-009,Smartphone Lite,Telefonia ,1,1150000,Bogota,Paula Diaz,CALI,Pyme
+77,V-1229,2024-06-09,C-009,P-009,Smartphone Lite,TELEFONIA,2,$ 1.150.000,Medellin,Jorge Lopez,BOGOTA,Pyme
+78,V-1019,2024-11-27,C-004,P-005,Mouse Inalambrico,Accesorios,2,120000,Medellin,Camila Rodriguez, Medellin,Consumidor
+79,V-1041,2024-01-16,C-022,P-001,Laptop Pro 14,Computo,1,4200000,Bogota,Jorge Moreno,MEDELLIN,
+80,V-1305,2024-11-10,C-026,P-002,Laptop Air 13,Computo,4,3100000,Bogota,Diana Moreno,cali,Consumidor
+81,V-1188,2024-11-02,C-012,P-003,Monitor 27,computo,2,1450000,Barranquilla,Miguel Moreno,medellin,Pyme
+82,V-1107,2024-10-05,C-046,P-002,Laptop Air 13,COMPUTO,-1,3100000,Medellin,Jorge Ramirez,BARRANQUILLA,Pyme
+83,V-1102,2024-02-07,C-057,P-005,Mouse Inalambrico,Accesorios ,1,120000,Barranquilla,Ricardo Torres,Medellin,Pyme
+84,V-1276,,C-005,P-004,Teclado Mecanico,ACCESORIOS,1,290000,Barranquilla,Diana Vargas, Medellin,Pyme
+85,V-1372,2024-07-13,C-058,P-010,Tablet 11,Computo ,1,1900000,Barranquilla,Diana Castro,CALI,Pyme
+86,V-1285,2024-11-01,C-058,P-010,Tablet 11,computo,4,1900000,Barranquilla,Diana Castro,CALI,Pyme
+87,V-1251,28/12/2024,C-007,P-001,Laptop Pro 14,Computo ,2,4200000,Medellin,Miguel Diaz,cali,Pyme
+88,V-1091,12/06/2024,C-036,P-003,Monitor 27,COMPUTO,2,1450000,Bogota,Carlos Rodriguez, Cali,Corporativo
+89,V-1327,2024-12-15,C-047,P-001,Laptop Pro 14,COMPUTO,4,$ 4.200.000,Cali,Ricardo Vargas,Medellin,Pyme
+90,V-1082,2024-01-25,C-038,P-010,Tablet 11,computo,2,1900000,Bogota,Jorge Rodriguez,CALI,Consumidor
+91,V-1359,2024-01-04,C-018,P-008,Smartphone X12,Telefonia,1,2800000,Barranquilla,Diana Castro,Cali,Corporativo
+92,V-1246,08/07/2024,C-036,P-009,Smartphone Lite,telefonia,4,1150000,Barranquilla,Carlos Rodriguez, Cali,Corporativo
+93,V-1208,2024-04-10,C-032,P-008,Smartphone X12,Telefonia,1,$ 2.800.000,Cali,Miguel Vargas,CALI,Corporativo
+94,V-1123,2024-01-08,C-010,P-010,Tablet 11,Computo ,2,1900000,Medellin,Camila Torres,Barranquilla,Consumidor
+95,V-1378,,C-015,P-005,Mouse Inalambrico,accesorios,2,120000,Barranquilla,Diana Moreno,medellin,Corporativo
+96,V-1350,2024-03-05,C-018,P-010,Tablet 11,Computo ,2,1900000,Bogota,Diana Castro,Cali,Corporativo
+97,V-1175,2024-08-20,C-020,P-002,Laptop Air 13,COMPUTO,2,$ 3.100.000,Bogota,Ana Castro,Barranquilla,Corporativo
+98,V-1012,2024-08-26,C-023,P-006,Audifonos,audio,4,350000,Barranquilla,Felipe Rodriguez,Bogota,Consumidor
+99,V-1322,2024-12-04,C-018,P-004,Teclado Mecanico,Accesorios ,3,290000,Barranquilla,Diana Castro,Cali,Corporativo
+100,V-1304,2024-10-09,C-052,P-001,Laptop Pro 14,computo,2,$ 4.200.000,Medellin,Valentina Ramirez, Medellin,Consumidor
+101,V-1094,2024-05-19,C-010,P-002,Laptop Air 13,Computo ,1,3100000,Bogota,Camila Torres,Barranquilla,Consumidor
+102,V-1299,28/09/2024,C-058,P-009,Smartphone Lite,Telefonia,0,1150000,Medellin,Diana Castro,CALI,Pyme
+103,V-1313,2024-01-19,C-056,P-008,Smartphone X12,TELEFONIA,2,$ 2.800.000,Barranquilla,Valentina Rodriguez,medellin,Consumidor
+104,V-1042,04/08/2024,C-008,P-001,Laptop Pro 14,Computo ,4,4200000,Bogota,Paula Diaz,CALI,Pyme
+105,V-1165,2024-07-14,C-008,P-010,Tablet 11,Computo,1,$ 1.900.000,Medellin,Paula Diaz,CALI,Pyme
+106,V-1198,2024-08-14,C-001,P-002,Laptop Air 13,computo,3,3100000,Medellin,Andres Martinez,CALI,Pyme
+107,V-1096,,C-007,P-006,Audifonos,Audio ,3,$ 350.000,Bogota,Miguel Diaz,cali,Pyme
+108,V-1093,19/09/2024,C-005,P-007,Parlante Portatil,audio,2,420000,Barranquilla,Diana Vargas, Medellin,Pyme
+109,V-1400,11/05/2024,C-051,P-004,Teclado Mecanico,Accesorios,1,$ 290.000,Cali,Miguel Lopez,bogota,
+110,V-1400,11/05/2024,C-051,P-004,Teclado Mecanico,Accesorios,1,$ 290.000,Cali,Miguel Lopez,bogota,
+111,V-1286,10/09/2024,C-020,P-001,Laptop Pro 14,Computo ,4,4200000,Bogota,Ana Castro,Barranquilla,Corporativo
+112,V-1024,24/03/2024,C-020,P-005,Mouse Inalambrico,Accesorios ,3,$ 120.000,Barranquilla,Ana Castro,Barranquilla,Corporativo
+113,V-1316,2024-03-11,C-020,P-009,Smartphone Lite,telefonia,1,1150000,,Ana Castro,Barranquilla,Corporativo
+114,V-1014,2024-01-09,C-051,P-001,Laptop Pro 14,Computo,1,$ 4.200.000,Bogota,Miguel Lopez,bogota,
+115,V-1014,2024-01-09,C-051,P-001,Laptop Pro 14,Computo,1,$ 4.200.000,Bogota,Miguel Lopez,bogota,
+116,V-1355,2024-06-28,C-005,P-008,Smartphone X12,TELEFONIA,2,$ 2.800.000,Cali,Diana Vargas, Medellin,Pyme
+117,V-1062,14/03/2024,C-044,P-008,Smartphone X12,Telefonia ,2,2800000,Cali,Jorge Diaz,barranquilla,Consumidor
+118,V-1172,21/06/2024,C-058,P-007,Parlante Portatil,Audio,4,$ 420.000,Medellin,Diana Castro,CALI,Pyme
+119,V-1342,2024-09-06,C-014,P-006,Audifonos,Audio ,1,$ 350.000,Cali,Felipe Rodriguez,BOGOTA,
+120,V-1103,2024-08-10,C-030,P-001,Laptop Pro 14,COMPUTO,2,4200000,Bogota,Ana Lopez,Barranquilla,Pyme
+121,V-1040,2024-12-22,C-004,P-004,Teclado Mecanico,accesorios,2,$ 290.000,Bogota,Camila Rodriguez, Medellin,Consumidor
+122,V-1383,2024-07-04,C-034,P-005,Mouse Inalambrico,Accesorios ,1,$ 120.000,Bogota,Miguel Ramirez, Cali,Pyme
+123,V-1174,2024-09-06,C-015,P-008,Smartphone X12,Telefonia,3,2800000,Cali,Diana Moreno,medellin,Corporativo
+124,V-1373,,C-050,P-004,Teclado Mecanico,Accesorios,1,290000,Barranquilla,Felipe Diaz,BOGOTA,Consumidor
+125,V-1173,,C-053,P-005,Mouse Inalambrico,Accesorios,1,120000,Bogota,Andres Ramirez, Bogota,Consumidor
+126,V-1099,06/08/2024,C-026,P-007,Parlante Portatil,audio,4,420000,Medellin,Diana Moreno,cali,Consumidor
+127,V-1356,2024-01-03,C-023,P-002,Laptop Air 13,computo,1,$ 3.100.000,Medellin,Felipe Rodriguez,Bogota,Consumidor
+128,V-1245,2024-08-08,C-022,P-009,Smartphone Lite,telefonia,1,1150000,Barranquilla,Jorge Moreno,MEDELLIN,
+129,V-1296,2024-07-23,C-048,P-009,Smartphone Lite,TELEFONIA,1,$ 1.150.000,Medellin,Felipe Ramirez,CALI,Pyme
+130,V-1384,2024-05-14,C-038,P-004,Teclado Mecanico,accesorios,3,$ 290.000,Barranquilla,Jorge Rodriguez,CALI,Consumidor
+131,V-1224,21/03/2024,C-026,P-010,Tablet 11,COMPUTO,3,1900000,Cali,Diana Moreno,cali,Consumidor
+132,V-1369,2024-12-02,C-060,P-005,Mouse Inalambrico,accesorios,3,120000,Barranquilla,Diana Martinez,medellin,
+133,V-1275,15/07/2024,C-009,P-002,Laptop Air 13,COMPUTO,4,3100000,Cali,Jorge Lopez,BOGOTA,Pyme
+134,V-1292,02/08/2024,C-052,P-004,Teclado Mecanico,Accesorios ,2,290000,Bogota,Valentina Ramirez, Medellin,Consumidor
+135,V-1083,13/11/2024,C-022,P-002,Laptop Air 13,computo,4,3100000,Cali,Jorge Moreno,MEDELLIN,
+136,V-1386,2024-11-09,C-002,P-005,Mouse Inalambrico,Accesorios ,1,120000,Cali,Ricardo Ramirez, Medellin,Consumidor
+137,V-1187,2024-08-09,C-019,P-005,Mouse Inalambrico,accesorios,3,120000,Bogota,Paula Martinez,medellin,Consumidor
+138,V-1028,09/07/2024,C-014,P-002,Laptop Air 13,computo,4,3100000,Cali,Felipe Rodriguez,BOGOTA,
+139,V-1090,,C-019,P-003,Monitor 27,Computo ,1,$ 1.450.000,,Paula Martinez,medellin,Consumidor
+140,V-1328,2024-04-24,C-048,P-004,Teclado Mecanico,accesorios,1,290000,Barranquilla,Felipe Ramirez,CALI,Pyme
+141,V-1074,22/02/2024,C-029,P-004,Teclado Mecanico,accesorios,2,$ 290.000,Medellin,Diana Torres,Barranquilla,Consumidor
+142,V-1070,2024-03-03,C-059,P-002,Laptop Air 13,Computo,3,3100000,Bogota,Jorge Vargas, Medellin,Corporativo
+143,V-1173,,C-053,P-005,Mouse Inalambrico,Accesorios,1,120000,Bogota,Andres Ramirez, Bogota,Consumidor
+144,V-1092,2024-01-27,C-038,P-003,Monitor 27,Computo ,1,1450000,Bogota,Jorge Rodriguez,CALI,Consumidor
+145,V-1193,2024-08-24,C-048,P-005,Mouse Inalambrico,accesorios,1,120000,Barranquilla,Felipe Ramirez,CALI,Pyme
+146,V-1147,2024-08-04,C-028,P-005,Mouse Inalambrico,ACCESORIOS,2,120000,Bogota,Ricardo Martinez,MEDELLIN,Corporativo
+147,V-1319,21/09/2024,C-052,P-010,Tablet 11,COMPUTO,4,1900000,Barranquilla,Valentina Ramirez, Medellin,Consumidor
+148,V-1126,2024-01-16,C-024,P-004,Teclado Mecanico,Accesorios ,1,$ 290.000,Medellin,Ricardo Torres,Bogota,Corporativo
+149,V-1060,13/01/2024,C-005,P-009,Smartphone Lite,Telefonia ,1,1150000,Barranquilla,Diana Vargas, Medellin,Pyme
+150,V-1121,2024-04-04,C-035,P-005,Mouse Inalambrico,accesorios,1,$ 120.000,Cali,Paula Moreno,CALI,
+151,V-1013,2024-01-04,C-052,P-005,Mouse Inalambrico,ACCESORIOS,2,120000,Medellin,Valentina Ramirez, Medellin,Consumidor
+152,V-1326,2024-11-12,C-021,P-003,Monitor 27,COMPUTO,2,1450000,Bogota,Camila Martinez,Medellin,Corporativo
+153,V-1224,21/03/2024,C-026,P-010,Tablet 11,COMPUTO,3,1900000,Cali,Diana Moreno,cali,Consumidor
+154,V-1288,2024-07-28,C-017,P-006,Audifonos,Audio,1,350000,Barranquilla,Valentina Diaz,Medellin,Pyme
+155,V-1284,2024-10-18,C-055,P-010,Tablet 11,Computo ,1,1900000,Barranquilla,Jorge Martinez,CALI,Pyme
+156,V-1205,2024-07-05,C-059,P-004,Teclado Mecanico,Accesorios ,1,290000,Cali,Jorge Vargas, Medellin,Corporativo
+157,V-1343,05/03/2024,C-057,P-004,Teclado Mecanico,accesorios,4,$ 290.000,Medellin,Ricardo Torres,Medellin,Pyme
+158,V-1331,13/01/2024,C-059,P-007,Parlante Portatil,Audio,1,420000,Barranquilla,Jorge Vargas, Medellin,Corporativo
+159,V-1376,13/08/2024,C-004,P-009,Smartphone Lite,Telefonia,4,1150000,Cali,Camila Rodriguez, Medellin,Consumidor
+160,V-1292,02/08/2024,C-052,P-004,Teclado Mecanico,Accesorios ,2,290000,Bogota,Valentina Ramirez, Medellin,Consumidor
+161,V-1089,18/08/2024,C-036,P-009,Smartphone Lite,Telefonia,3,1150000,Bogota,Carlos Rodriguez, Cali,Corporativo
+162,V-1132,2024-08-22,C-031,P-003,Monitor 27,COMPUTO,1,$ 1.450.000,Cali,Camila Moreno, Bogota,Consumidor
+163,V-1125,2024-10-28,C-042,P-007,Parlante Portatil,audio,1,$ 420.000,Barranquilla,Laura Castro, Cali,Pyme
+164,V-1125,2024-10-28,C-042,P-007,Parlante Portatil,audio,1,$ 420.000,Barranquilla,Laura Castro, Cali,Pyme
+165,V-1329,2024-02-12,C-015,P-007,Parlante Portatil,Audio,2,$ 420.000,Cali,Diana Moreno,medellin,Corporativo
+166,V-1015,2024-09-03,C-017,P-006,Audifonos,Audio ,4,350000,Medellin,Valentina Diaz,Medellin,Pyme
+167,V-1334,07/04/2024,C-056,P-001,Laptop Pro 14,COMPUTO,4,4200000,Barranquilla,Valentina Rodriguez,medellin,Consumidor
+168,V-1294,2024-01-27,C-006,P-005,Mouse Inalambrico,ACCESORIOS,1,120000,Bogota,Valentina Diaz,Barranquilla,Corporativo
+169,V-1124,2024-09-17,C-006,P-008,Smartphone X12,Telefonia,4,2800000,Bogota,Valentina Diaz,Barranquilla,Corporativo
+170,V-1139,2024-08-11,C-028,P-003,Monitor 27,Computo,2,1450000,Medellin,Ricardo Martinez,MEDELLIN,Corporativo
+171,V-1112,2024-08-13,C-020,P-002,Laptop Air 13,computo,1,3100000,Cali,Ana Castro,Barranquilla,Corporativo
+172,V-1052,2024-02-16,C-054,P-005,Mouse Inalambrico,Accesorios ,4,120000,Bogota,Laura Martinez,Barranquilla,Consumidor
+173,V-1113,02/06/2024,C-035,P-007,Parlante Portatil,Audio ,4,420000,Barranquilla,Paula Moreno,CALI,
+174,V-1010,2024-02-27,C-038,P-003,Monitor 27,Computo ,2,1450000,Medellin,Jorge Rodriguez,CALI,Consumidor
+175,V-1209,2024-10-01,C-002,P-010,Tablet 11,COMPUTO,1,$ 1.900.000,Barranquilla,Ricardo Ramirez, Medellin,Consumidor
+176,V-1017,2024-10-03,C-029,P-006,Audifonos,Audio,1,350000,Medellin,Diana Torres,Barranquilla,Consumidor
+177,V-1252,2024-08-07,C-024,P-007,Parlante Portatil,audio,2,$ 420.000,Cali,Ricardo Torres,Bogota,Corporativo
+178,V-1001,2024-02-22,C-053,P-010,Tablet 11,computo,3,$ 1.900.000,Cali,Andres Ramirez, Bogota,Consumidor
+179,V-1106,2024-02-13,C-008,P-004,Teclado Mecanico,ACCESORIOS,2,290000,Cali,Paula Diaz,CALI,Pyme
+180,V-1312,2024-12-09,C-009,P-001,Laptop Pro 14,Computo ,2,$ 4.200.000,Cali,Jorge Lopez,BOGOTA,Pyme
+181,V-1239,22/09/2024,C-016,P-001,Laptop Pro 14,computo,1,4200000,Bogota,Laura Lopez,barranquilla,Pyme
+182,V-1126,2024-01-16,C-024,P-004,Teclado Mecanico,Accesorios ,1,$ 290.000,Medellin,Ricardo Torres,Bogota,Corporativo
+183,V-1071,2024-12-23,C-045,P-006,Audifonos,Audio,1,350000,Bogota,Valentina Lopez,Barranquilla,Consumidor
+184,V-1261,2024-09-16,C-007,P-007,Parlante Portatil,AUDIO,2,420000,Medellin,Miguel Diaz,cali,Pyme
+185,V-1039,2024-03-21,C-028,P-007,Parlante Portatil,audio,4,$ 420.000,Bogota,Ricardo Martinez,MEDELLIN,Corporativo
+186,V-1151,2024-01-07,C-030,P-009,Smartphone Lite,telefonia,3,1150000,Medellin,Ana Lopez,Barranquilla,Pyme
+187,V-1079,2024-04-05,C-030,P-008,Smartphone X12,Telefonia,2,2800000,Medellin,Ana Lopez,Barranquilla,Pyme
+188,V-1164,2024-03-21,C-007,P-001,Laptop Pro 14,COMPUTO,1,$ 4.200.000,Bogota,Miguel Diaz,cali,Pyme
+189,V-1168,2024-04-19,C-056,P-009,Smartphone Lite,TELEFONIA,1,1150000,Bogota,Valentina Rodriguez,medellin,Consumidor
+190,V-1285,2024-11-01,C-058,P-010,Tablet 11,computo,4,1900000,Barranquilla,Diana Castro,CALI,Pyme
+191,V-1219,2024-03-12,C-056,P-001,Laptop Pro 14,Computo,2,4200000,Barranquilla,Valentina Rodriguez,medellin,Consumidor
+192,V-1006,,C-020,P-006,Audifonos,audio,1,350000,Bogota,Ana Castro,Barranquilla,Corporativo
+193,V-1146,2024-09-25,C-022,P-003,Monitor 27,Computo ,1,$ 1.450.000,Cali,Jorge Moreno,MEDELLIN,
+194,V-1234,2024-04-03,C-039,P-008,Smartphone X12,telefonia,4,2800000,Bogota,Carlos Diaz,bogota,Corporativo
+195,V-1043,2024-09-02,C-047,P-009,Smartphone Lite,telefonia,1,1150000,Bogota,Ricardo Vargas,Medellin,Pyme
+196,V-1161,2024-11-03,C-001,P-009,Smartphone Lite,telefonia,2,1150000,Cali,Andres Martinez,CALI,Pyme
+197,V-1341,2024-01-08,C-014,P-008,Smartphone X12,TELEFONIA,2,2800000,Bogota,Felipe Rodriguez,BOGOTA,
+198,V-1215,,C-046,P-007,Parlante Portatil,Audio ,2,$ 420.000,Bogota,Jorge Ramirez,BARRANQUILLA,Pyme
+199,V-1248,2024-06-08,C-050,P-005,Mouse Inalambrico,accesorios,4,$ 120.000,Medellin,Felipe Diaz,BOGOTA,Consumidor
+200,V-1297,11/01/2024,C-018,P-009,Smartphone Lite,Telefonia,4,$ 1.150.000,Medellin,Diana Castro,Cali,Corporativo
+201,V-1189,2024-12-08,C-042,P-006,Audifonos,AUDIO,1,350000,Barranquilla,Laura Castro, Cali,Pyme
+202,V-1189,2024-12-08,C-042,P-006,Audifonos,AUDIO,1,350000,Barranquilla,Laura Castro, Cali,Pyme
+203,V-1324,2024-01-28,C-015,P-009,Smartphone Lite,Telefonia ,3,$ 1.150.000,Medellin,Diana Moreno,medellin,Corporativo
+204,V-1348,2024-06-27,C-010,P-008,Smartphone X12,telefonia,2,2800000,Barranquilla,Camila Torres,Barranquilla,Consumidor
+205,V-1301,27/01/2024,C-052,P-006,Audifonos,Audio ,2,350000,Bogota,Valentina Ramirez, Medellin,Consumidor
+206,V-1399,20/12/2024,C-039,P-003,Monitor 27,computo,1,1450000,Cali,Carlos Diaz,bogota,Corporativo
+207,V-1329,2024-02-12,C-015,P-007,Parlante Portatil,Audio,2,$ 420.000,Cali,Diana Moreno,medellin,Corporativo
+208,V-1148,2024-01-06,C-036,P-004,Teclado Mecanico,accesorios,4,290000,Bogota,Carlos Rodriguez, Cali,Corporativo
+209,V-1226,2024-11-06,C-015,P-001,Laptop Pro 14,Computo,2,4200000,Bogota,Diana Moreno,medellin,Corporativo
+210,V-1101,20/04/2024,C-058,P-003,Monitor 27,Computo,4,1450000,Barranquilla,Diana Castro,CALI,Pyme
+211,V-1035,2024-10-22,C-050,P-010,Tablet 11,Computo,1,1900000,Cali,Felipe Diaz,BOGOTA,Consumidor
+212,V-1189,2024-12-08,C-042,P-006,Audifonos,AUDIO,1,350000,Barranquilla,Laura Castro, Cali,Pyme
+213,V-1189,2024-12-08,C-042,P-006,Audifonos,AUDIO,1,350000,Barranquilla,Laura Castro, Cali,Pyme
+214,V-1111,27/08/2024,C-013,P-004,Teclado Mecanico,ACCESORIOS,2,290000,Barranquilla,Miguel Moreno,MEDELLIN,Corporativo
+215,V-1176,14/03/2024,C-045,P-007,Parlante Portatil,AUDIO,1,420000,Barranquilla,Valentina Lopez,Barranquilla,Consumidor
+216,V-1054,04/01/2024,C-005,P-004,Teclado Mecanico,Accesorios,1,290000,Medellin,Diana Vargas, Medellin,Pyme
+217,V-1136,2024-11-09,C-056,P-001,Laptop Pro 14,Computo ,2,4200000,Cali,Valentina Rodriguez,medellin,Consumidor
+218,V-1393,08/09/2024,C-049,P-005,Mouse Inalambrico,Accesorios,1,120000,Bogota,Ricardo Ramirez, Medellin,Corporativo
+219,V-1393,08/09/2024,C-049,P-005,Mouse Inalambrico,Accesorios,1,120000,Bogota,Ricardo Ramirez, Medellin,Corporativo
+220,V-1155,2024-04-22,C-012,P-009,Smartphone Lite,Telefonia ,2,1150000,,Miguel Moreno,medellin,Pyme
+221,V-1020,2024-04-22,C-030,P-007,Parlante Portatil,Audio,2,420000,Cali,Ana Lopez,Barranquilla,Pyme
+222,V-1143,2024-10-13,C-054,P-010,Tablet 11,COMPUTO,1,1900000,Medellin,Laura Martinez,Barranquilla,Consumidor
+223,V-1159,2024-08-10,C-060,P-009,Smartphone Lite,Telefonia,1,$ 1.150.000,Cali,Diana Martinez,medellin,
+224,V-1346,2024-07-11,C-029,P-002,Laptop Air 13,COMPUTO,1,3100000,Cali,Diana Torres,Barranquilla,Consumidor
+225,V-1045,2024-07-13,C-003,P-002,Laptop Air 13,COMPUTO,4,3100000,Medellin,Ricardo Castro,medellin,Pyme
+226,V-1045,2024-07-13,C-003,P-002,Laptop Air 13,COMPUTO,4,3100000,Medellin,Ricardo Castro,medellin,Pyme
+227,V-1287,2024-02-04,C-045,P-006,Audifonos,Audio,2,$ 350.000,Barranquilla,Valentina Lopez,Barranquilla,Consumidor
+228,V-1114,2024-10-02,C-057,P-004,Teclado Mecanico,accesorios,3,$ 290.000,Bogota,Ricardo Torres,Medellin,Pyme
+229,V-1295,,C-016,P-002,Laptop Air 13,Computo ,2,$ 3.100.000,Cali,Laura Lopez,barranquilla,Pyme
+230,V-1212,2024-07-06,C-019,P-010,Tablet 11,Computo ,4,1900000,Cali,Paula Martinez,medellin,Consumidor
+231,V-1109,2024-09-11,C-029,P-002,Laptop Air 13,Computo,1,3100000,Bogota,Diana Torres,Barranquilla,Consumidor
+232,V-1363,2024-12-17,C-058,P-008,Smartphone X12,Telefonia,1,2800000,Barranquilla,Diana Castro,CALI,Pyme
+233,V-1170,2024-04-21,C-014,P-002,Laptop Air 13,COMPUTO,1,$ 3.100.000,Medellin,Felipe Rodriguez,BOGOTA,
+234,V-1080,2024-04-22,C-011,P-002,Laptop Air 13,computo,1,3100000,Barranquilla,Felipe Lopez, Medellin,Corporativo
+235,V-1398,2024-09-18,C-009,P-005,Mouse Inalambrico,Accesorios,2,120000,Barranquilla,Jorge Lopez,BOGOTA,Pyme
+236,V-1269,2024-02-13,C-038,P-005,Mouse Inalambrico,accesorios,3,$ 120.000,Bogota,Jorge Rodriguez,CALI,Consumidor
+237,V-1085,2024-11-02,C-022,P-005,Mouse Inalambrico,Accesorios ,0,$ 120.000,Bogota,Jorge Moreno,MEDELLIN,
+238,V-1009,2024-06-04,C-049,P-004,Teclado Mecanico,Accesorios ,4,$ 290.000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+239,V-1009,2024-06-04,C-049,P-004,Teclado Mecanico,Accesorios ,4,$ 290.000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+240,V-1237,2024-02-12,C-057,P-002,Laptop Air 13,COMPUTO,1,$ 3.100.000,Bogota,Ricardo Torres,Medellin,Pyme
+241,V-1100,16/08/2024,C-002,P-009,Smartphone Lite,Telefonia ,3,$ 1.150.000,Bogota,Ricardo Ramirez, Medellin,Consumidor
+242,V-1366,03/02/2024,C-057,P-006,Audifonos,Audio ,1,350000,Medellin,Ricardo Torres,Medellin,Pyme
+243,V-1347,2024-03-03,C-020,P-009,Smartphone Lite,TELEFONIA,2,$ 1.150.000,Cali,Ana Castro,Barranquilla,Corporativo
+244,V-1338,2024-06-06,C-010,P-003,Monitor 27,Computo,2,1450000,Cali,Camila Torres,Barranquilla,Consumidor
+245,V-1223,2024-09-28,C-027,P-005,Mouse Inalambrico,accesorios,1,120000,Bogota,Andres Lopez, Barranquilla,Consumidor
+246,V-1029,2024-04-15,C-012,P-003,Monitor 27,Computo ,1,1450000,Medellin,Miguel Moreno,medellin,Pyme
+247,V-1032,,C-031,P-006,Audifonos,Audio ,4,350000,Barranquilla,Camila Moreno, Bogota,Consumidor
+248,V-1311,03/02/2024,C-003,P-005,Mouse Inalambrico,Accesorios,1,$ 120.000,Cali,Ricardo Castro,medellin,Pyme
+249,V-1311,03/02/2024,C-003,P-005,Mouse Inalambrico,Accesorios,1,$ 120.000,Cali,Ricardo Castro,medellin,Pyme
+250,V-1056,2024-11-14,C-040,P-008,Smartphone X12,Telefonia,0,2800000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+251,V-1056,2024-11-14,C-040,P-008,Smartphone X12,Telefonia,0,2800000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+252,V-1399,20/12/2024,C-039,P-003,Monitor 27,computo,1,1450000,Cali,Carlos Diaz,bogota,Corporativo
+253,V-1033,15/03/2024,C-018,P-004,Teclado Mecanico,ACCESORIOS,3,290000,Medellin,Diana Castro,Cali,Corporativo
+254,V-1290,2024-08-11,C-001,P-004,Teclado Mecanico,ACCESORIOS,4,290000,Bogota,Andres Martinez,CALI,Pyme
+255,V-1049,2024-07-27,C-047,P-001,Laptop Pro 14,Computo,1,4200000,Barranquilla,Ricardo Vargas,Medellin,Pyme
+256,V-1349,2024-09-13,C-042,P-002,Laptop Air 13,computo,3,3100000,Medellin,Laura Castro, Cali,Pyme
+257,V-1349,2024-09-13,C-042,P-002,Laptop Air 13,computo,3,3100000,Medellin,Laura Castro, Cali,Pyme
+258,V-1272,09/08/2024,C-041,P-004,Teclado Mecanico,ACCESORIOS,3,290000,Bogota,Paula Moreno,MEDELLIN,Pyme
+259,V-1365,2024-06-10,C-052,P-009,Smartphone Lite,telefonia,1,$ 1.150.000,Medellin,Valentina Ramirez, Medellin,Consumidor
+260,V-1034,2024-06-28,C-021,P-003,Monitor 27,Computo,1,1450000,Bogota,Camila Martinez,Medellin,Corporativo
+261,V-1222,2024-12-22,C-014,P-010,Tablet 11,COMPUTO,3,1900000,Cali,Felipe Rodriguez,BOGOTA,
+262,V-1340,11/01/2024,C-011,P-010,Tablet 11,computo,0,1900000,Bogota,Felipe Lopez, Medellin,Corporativo
+263,V-1036,2024-04-26,C-029,P-010,Tablet 11,computo,2,$ 1.900.000,Medellin,Diana Torres,Barranquilla,Consumidor
+264,V-1390,2024-11-27,C-036,P-003,Monitor 27,Computo,2,1450000,Cali,Carlos Rodriguez, Cali,Corporativo
+265,V-1064,05/12/2024,C-035,P-004,Teclado Mecanico,accesorios,4,290000,Bogota,Paula Moreno,CALI,
+266,V-1158,2024-04-22,C-022,P-007,Parlante Portatil,AUDIO,4,420000,Bogota,Jorge Moreno,MEDELLIN,
+267,V-1129,2024-10-13,C-053,P-010,Tablet 11,Computo ,1,$ 1.900.000,Medellin,Andres Ramirez, Bogota,Consumidor
+268,V-1047,2024-06-10,C-036,P-001,Laptop Pro 14,COMPUTO,3,4200000,Cali,Carlos Rodriguez, Cali,Corporativo
+269,V-1207,03/10/2024,C-036,P-006,Audifonos,audio,1,350000,Cali,Carlos Rodriguez, Cali,Corporativo
+270,V-1067,12/11/2024,C-054,P-006,Audifonos,Audio,3,350000,Bogota,Laura Martinez,Barranquilla,Consumidor
+271,V-1271,2024-02-23,C-028,P-008,Smartphone X12,Telefonia ,1,2800000,Cali,Ricardo Martinez,MEDELLIN,Corporativo
+272,V-1354,12/10/2024,C-051,P-007,Parlante Portatil,audio,-1,420000,Medellin,Miguel Lopez,bogota,
+273,V-1354,12/10/2024,C-051,P-007,Parlante Portatil,audio,-1,420000,Medellin,Miguel Lopez,bogota,
+274,V-1259,06/07/2024,C-044,P-003,Monitor 27,computo,2,1450000,Cali,Jorge Diaz,barranquilla,Consumidor
+275,V-1235,2024-03-25,C-047,P-002,Laptop Air 13,Computo ,-1,$ 3.100.000,Bogota,Ricardo Vargas,Medellin,Pyme
+276,V-1175,2024-08-20,C-020,P-002,Laptop Air 13,COMPUTO,2,$ 3.100.000,Bogota,Ana Castro,Barranquilla,Corporativo
+277,V-1046,2024-05-17,C-012,P-005,Mouse Inalambrico,Accesorios ,2,120000,Bogota,Miguel Moreno,medellin,Pyme
+278,V-1178,2024-04-09,C-013,P-005,Mouse Inalambrico,Accesorios,1,$ 120.000,Barranquilla,Miguel Moreno,MEDELLIN,Corporativo
+279,V-1220,2024-10-14,C-005,P-007,Parlante Portatil,AUDIO,2,$ 420.000,Barranquilla,Diana Vargas, Medellin,Pyme
+280,V-1332,2024-12-18,C-015,P-007,Parlante Portatil,Audio,3,420000,Bogota,Diana Moreno,medellin,Corporativo
+281,V-1022,20/07/2024,C-006,P-010,Tablet 11,computo,2,1900000,Cali,Valentina Diaz,Barranquilla,Corporativo
+282,V-1249,2024-02-13,C-018,P-008,Smartphone X12,Telefonia ,3,2800000,Barranquilla,Diana Castro,Cali,Corporativo
+283,V-1200,2024-09-23,C-011,P-010,Tablet 11,Computo ,4,1900000,,Felipe Lopez, Medellin,Corporativo
+284,V-1138,25/04/2024,C-044,P-004,Teclado Mecanico,accesorios,1,290000,,Jorge Diaz,barranquilla,Consumidor
+285,V-1025,2024-02-23,C-043,P-009,Smartphone Lite,TELEFONIA,2,1150000,Medellin,Paula Ramirez,CALI,Pyme
+286,V-1185,2024-08-06,C-033,P-003,Monitor 27,computo,1,1450000,Cali,Paula Rodriguez,MEDELLIN,
+287,V-1206,2024-02-08,C-002,P-008,Smartphone X12,Telefonia,2,2800000,Medellin,Ricardo Ramirez, Medellin,Consumidor
+288,V-1135,23/10/2024,C-006,P-010,Tablet 11,Computo ,2,1900000,Barranquilla,Valentina Diaz,Barranquilla,Corporativo
+289,V-1117,2024-10-20,C-002,P-002,Laptop Air 13,COMPUTO,1,3100000,Bogota,Ricardo Ramirez, Medellin,Consumidor
+290,V-1213,18/09/2024,C-002,P-003,Monitor 27,computo,2,1450000,Bogota,Ricardo Ramirez, Medellin,Consumidor
+291,V-1380,2024-04-13,C-058,P-002,Laptop Air 13,Computo,1,3100000,Medellin,Diana Castro,CALI,Pyme
+292,V-1361,01/10/2024,C-044,P-001,Laptop Pro 14,Computo,3,4200000,Bogota,Jorge Diaz,barranquilla,Consumidor
+293,V-1307,17/04/2024,C-038,P-002,Laptop Air 13,Computo ,3,3100000,Cali,Jorge Rodriguez,CALI,Consumidor
+294,V-1232,2024-10-18,C-010,P-010,Tablet 11,COMPUTO,2,$ 1.900.000,,Camila Torres,Barranquilla,Consumidor
+295,V-1218,2024-09-26,C-042,P-004,Teclado Mecanico,accesorios,2,290000,Bogota,Laura Castro, Cali,Pyme
+296,V-1218,2024-09-26,C-042,P-004,Teclado Mecanico,accesorios,2,290000,Bogota,Laura Castro, Cali,Pyme
+297,V-1057,2024-04-06,C-050,P-003,Monitor 27,Computo,2,1450000,Bogota,Felipe Diaz,BOGOTA,Consumidor
+298,V-1333,2024-03-25,C-028,P-010,Tablet 11,COMPUTO,4,1900000,Medellin,Ricardo Martinez,MEDELLIN,Corporativo
+299,V-1310,2024-05-07,C-047,P-007,Parlante Portatil,Audio,2,420000,Cali,Ricardo Vargas,Medellin,Pyme
+300,V-1308,2024-02-13,C-052,P-005,Mouse Inalambrico,Accesorios ,2,120000,Bogota,Valentina Ramirez, Medellin,Consumidor
+301,V-1182,22/09/2024,C-037,P-002,Laptop Air 13,Computo,1,3100000,Bogota,Camila Rodriguez, Bogota,Pyme
+302,V-1098,2024-12-07,C-029,P-010,Tablet 11,computo,3,1900000,,Diana Torres,Barranquilla,Consumidor
+303,V-1115,2024-05-27,C-009,P-001,Laptop Pro 14,COMPUTO,2,$ 4.200.000,Barranquilla,Jorge Lopez,BOGOTA,Pyme
+304,V-1279,09/01/2024,C-040,P-004,Teclado Mecanico,accesorios,1,290000,Bogota,Jorge Gomez,BOGOTA,Consumidor
+305,V-1279,09/01/2024,C-040,P-004,Teclado Mecanico,accesorios,1,290000,Bogota,Jorge Gomez,BOGOTA,Consumidor
+306,V-1119,2024-08-28,C-060,P-002,Laptop Air 13,Computo,2,$ 3.100.000,Cali,Diana Martinez,medellin,
+307,V-1389,04/11/2024,C-017,P-008,Smartphone X12,TELEFONIA,1,$ 2.800.000,Bogota,Valentina Diaz,Medellin,Pyme
+308,V-1171,2024-03-18,C-020,P-003,Monitor 27,COMPUTO,1,1450000,Barranquilla,Ana Castro,Barranquilla,Corporativo
+309,V-1364,2024-04-10,C-059,P-004,Teclado Mecanico,Accesorios,2,290000,Cali,Jorge Vargas, Medellin,Corporativo
+310,V-1055,,C-059,P-005,Mouse Inalambrico,Accesorios ,1,120000,Cali,Jorge Vargas, Medellin,Corporativo
+311,V-1177,2024-06-12,C-045,P-005,Mouse Inalambrico,accesorios,1,120000,Cali,Valentina Lopez,Barranquilla,Consumidor
+312,V-1195,28/05/2024,C-020,P-010,Tablet 11,Computo ,2,1900000,Barranquilla,Ana Castro,Barranquilla,Corporativo
+313,V-1199,2024-01-28,C-037,P-005,Mouse Inalambrico,Accesorios ,1,120000,,Camila Rodriguez, Bogota,Pyme
+314,V-1183,2024-09-21,C-013,P-004,Teclado Mecanico,accesorios,1,$ 290.000,Bogota,Miguel Moreno,MEDELLIN,Corporativo
+315,V-1345,2024-10-11,C-042,P-004,Teclado Mecanico,Accesorios ,1,$ 290.000,Bogota,Laura Castro, Cali,Pyme
+316,V-1345,2024-10-11,C-042,P-004,Teclado Mecanico,Accesorios ,1,$ 290.000,Bogota,Laura Castro, Cali,Pyme
+317,V-1104,2024-01-15,C-055,P-010,Tablet 11,computo,3,$ 1.900.000,Bogota,Jorge Martinez,CALI,Pyme
+318,V-1221,08/01/2024,C-050,P-008,Smartphone X12,TELEFONIA,1,$ 2.800.000,Bogota,Felipe Diaz,BOGOTA,Consumidor
+319,V-1131,16/01/2024,C-036,P-006,Audifonos,AUDIO,1,350000,Cali,Carlos Rodriguez, Cali,Corporativo
+320,V-1306,28/06/2024,C-034,P-008,Smartphone X12,TELEFONIA,3,$ 2.800.000,Cali,Miguel Ramirez, Cali,Pyme
+321,V-1061,2024-06-13,C-006,P-010,Tablet 11,Computo,2,1900000,Cali,Valentina Diaz,Barranquilla,Corporativo
+322,V-1095,23/02/2024,C-021,P-010,Tablet 11,computo,1,1900000,Cali,Camila Martinez,Medellin,Corporativo
+323,V-1194,2024-01-12,C-043,P-005,Mouse Inalambrico,Accesorios ,1,$ 120.000,,Paula Ramirez,CALI,Pyme
+324,V-1141,2024-08-03,C-016,P-004,Teclado Mecanico,Accesorios ,1,290000,Barranquilla,Laura Lopez,barranquilla,Pyme
+325,V-1149,2024-12-10,C-016,P-009,Smartphone Lite,Telefonia ,4,1150000,Bogota,Laura Lopez,barranquilla,Pyme
+326,V-1203,2024-07-23,C-001,P-005,Mouse Inalambrico,accesorios,4,120000,Barranquilla,Andres Martinez,CALI,Pyme
+327,V-1153,2024-06-18,C-049,P-001,Laptop Pro 14,Computo,1,4200000,Cali,Ricardo Ramirez, Medellin,Corporativo
+328,V-1153,2024-06-18,C-049,P-001,Laptop Pro 14,Computo,1,4200000,Cali,Ricardo Ramirez, Medellin,Corporativo
+329,V-1344,2024-09-27,C-054,P-003,Monitor 27,Computo ,4,1450000,Bogota,Laura Martinez,Barranquilla,Consumidor
+330,V-1011,28/12/2024,C-048,P-001,Laptop Pro 14,Computo,1,4200000,Cali,Felipe Ramirez,CALI,Pyme
+331,V-1270,28/10/2024,C-037,P-004,Teclado Mecanico,accesorios,2,290000,Barranquilla,Camila Rodriguez, Bogota,Pyme
+332,V-1097,2024-11-25,C-025,P-007,Parlante Portatil,Audio,3,420000,Barranquilla,Ana Rodriguez,MEDELLIN,Pyme
+333,V-1211,2024-08-07,C-030,P-001,Laptop Pro 14,computo,1,4200000,Cali,Ana Lopez,Barranquilla,Pyme
+334,V-1241,18/01/2024,C-029,P-005,Mouse Inalambrico,accesorios,2,$ 120.000,Medellin,Diana Torres,Barranquilla,Consumidor
+335,V-1058,2024-01-13,C-052,P-001,Laptop Pro 14,Computo ,3,4200000,Medellin,Valentina Ramirez, Medellin,Consumidor
+336,V-1302,2024-11-05,C-037,P-006,Audifonos,AUDIO,2,350000,Cali,Camila Rodriguez, Bogota,Pyme
+337,V-1323,2024-06-01,C-056,P-005,Mouse Inalambrico,accesorios,1,120000,Bogota,Valentina Rodriguez,medellin,Consumidor
+338,V-1037,2024-01-12,C-001,P-009,Smartphone Lite,Telefonia,2,1150000,Cali,Andres Martinez,CALI,Pyme
+339,V-1377,2024-10-01,C-027,P-003,Monitor 27,Computo,3,1450000,Bogota,Andres Lopez, Barranquilla,Consumidor
+340,V-1021,2024-02-11,C-022,P-003,Monitor 27,COMPUTO,1,1450000,Barranquilla,Jorge Moreno,MEDELLIN,
+341,V-1371,2024-08-26,C-052,P-004,Teclado Mecanico,accesorios,3,290000,,Valentina Ramirez, Medellin,Consumidor
+342,V-1076,06/05/2024,C-055,P-009,Smartphone Lite,Telefonia ,2,$ 1.150.000,Medellin,Jorge Martinez,CALI,Pyme
+343,V-1201,23/04/2024,C-019,P-009,Smartphone Lite,TELEFONIA,1,$ 1.150.000,Cali,Paula Martinez,medellin,Consumidor
+344,V-1078,21/06/2024,C-020,P-007,Parlante Portatil,Audio ,4,$ 420.000,Cali,Ana Castro,Barranquilla,Corporativo
+345,V-1264,2024-06-07,C-054,P-001,Laptop Pro 14,Computo,2,4200000,Medellin,Laura Martinez,Barranquilla,Consumidor
+346,V-1325,2024-05-11,C-027,P-010,Tablet 11,COMPUTO,1,$ 1.900.000,Medellin,Andres Lopez, Barranquilla,Consumidor
+347,V-1150,02/06/2024,C-049,P-008,Smartphone X12,TELEFONIA,3,2800000,Medellin,Ricardo Ramirez, Medellin,Corporativo
+348,V-1150,02/06/2024,C-049,P-008,Smartphone X12,TELEFONIA,3,2800000,Medellin,Ricardo Ramirez, Medellin,Corporativo
+349,V-1370,2024-05-10,C-037,P-006,Audifonos,audio,1,350000,Cali,Camila Rodriguez, Bogota,Pyme
+350,V-1003,2024-12-17,C-055,P-002,Laptop Air 13,Computo,1,$ 3.100.000,Bogota,Jorge Martinez,CALI,Pyme
+351,V-1053,15/10/2024,C-033,P-001,Laptop Pro 14,computo,1,$ 4.200.000,Cali,Paula Rodriguez,MEDELLIN,
+352,V-1263,2024-10-01,C-046,P-008,Smartphone X12,telefonia,2,2800000,Medellin,Jorge Ramirez,BARRANQUILLA,Pyme
+353,V-1254,2024-04-03,C-051,P-001,Laptop Pro 14,Computo ,3,$ 4.200.000,Medellin,Miguel Lopez,bogota,
+354,V-1254,2024-04-03,C-051,P-001,Laptop Pro 14,Computo ,3,$ 4.200.000,Medellin,Miguel Lopez,bogota,
+355,V-1260,2024-09-03,C-048,P-003,Monitor 27,Computo,3,$ 1.450.000,Medellin,Felipe Ramirez,CALI,Pyme
+356,V-1322,2024-12-04,C-018,P-004,Teclado Mecanico,Accesorios ,3,290000,Barranquilla,Diana Castro,Cali,Corporativo
+357,V-1184,12/02/2024,C-056,P-003,Monitor 27,computo,2,1450000,Medellin,Valentina Rodriguez,medellin,Consumidor
+358,V-1152,2024-04-19,C-001,P-009,Smartphone Lite,Telefonia,1,1150000,Bogota,Andres Martinez,CALI,Pyme
+359,V-1381,2024-07-27,C-038,P-004,Teclado Mecanico,Accesorios ,2,290000,Medellin,Jorge Rodriguez,CALI,Consumidor
+360,V-1303,18/04/2024,C-015,P-001,Laptop Pro 14,Computo,1,$ 4.200.000,Bogota,Diana Moreno,medellin,Corporativo
+361,V-1191,2024-02-13,C-016,P-009,Smartphone Lite,Telefonia ,2,1150000,Bogota,Laura Lopez,barranquilla,Pyme
+362,V-1075,,C-038,P-009,Smartphone Lite,telefonia,1,1150000,Bogota,Jorge Rodriguez,CALI,Consumidor
+363,V-1244,2024-04-19,C-025,P-006,Audifonos,Audio ,1,350000,Cali,Ana Rodriguez,MEDELLIN,Pyme
+364,V-1343,05/03/2024,C-057,P-004,Teclado Mecanico,accesorios,4,$ 290.000,Medellin,Ricardo Torres,Medellin,Pyme
+365,V-1088,2024-10-14,C-043,P-002,Laptop Air 13,computo,4,3100000,Medellin,Paula Ramirez,CALI,Pyme
+366,V-1240,2024-09-11,C-051,P-001,Laptop Pro 14,computo,2,4200000,Cali,Miguel Lopez,bogota,
+367,V-1240,2024-09-11,C-051,P-001,Laptop Pro 14,computo,2,4200000,Cali,Miguel Lopez,bogota,
+368,V-1144,2024-01-12,C-060,P-001,Laptop Pro 14,Computo,4,$ 4.200.000,Medellin,Diana Martinez,medellin,
+369,V-1352,24/12/2024,C-010,P-007,Parlante Portatil,AUDIO,1,420000,Cali,Camila Torres,Barranquilla,Consumidor
+370,V-1267,23/03/2024,C-048,P-003,Monitor 27,Computo,3,1450000,Bogota,Felipe Ramirez,CALI,Pyme
+371,V-1289,22/01/2024,C-060,P-006,Audifonos,audio,1,350000,Bogota,Diana Martinez,medellin,
+372,V-1137,2024-02-11,C-032,P-005,Mouse Inalambrico,ACCESORIOS,1,120000,Barranquilla,Miguel Vargas,CALI,Corporativo
+373,V-1167,03/12/2024,C-058,P-006,Audifonos,AUDIO,1,$ 350.000,Bogota,Diana Castro,CALI,Pyme
+374,V-1084,2024-04-18,C-051,P-006,Audifonos,Audio,2,$ 350.000,Medellin,Miguel Lopez,bogota,
+375,V-1084,2024-04-18,C-051,P-006,Audifonos,Audio,2,$ 350.000,Medellin,Miguel Lopez,bogota,
+376,V-1374,2024-06-08,C-014,P-004,Teclado Mecanico,accesorios,3,290000,Barranquilla,Felipe Rodriguez,BOGOTA,
+377,V-1156,2024-10-14,C-044,P-006,Audifonos,audio,1,350000,Barranquilla,Jorge Diaz,barranquilla,Consumidor
+378,V-1280,2024-07-28,C-002,P-001,Laptop Pro 14,Computo ,1,4200000,Barranquilla,Ricardo Ramirez, Medellin,Consumidor
+379,V-1127,2024-06-17,C-006,P-007,Parlante Portatil,Audio ,1,$ 420.000,Medellin,Valentina Diaz,Barranquilla,Corporativo
+380,V-1196,20/09/2024,C-053,P-006,Audifonos,Audio ,3,350000,Medellin,Andres Ramirez, Bogota,Consumidor
+381,V-1266,2024-10-23,C-032,P-002,Laptop Air 13,Computo,1,3100000,Medellin,Miguel Vargas,CALI,Corporativo
+382,V-1388,20/05/2024,C-033,P-008,Smartphone X12,Telefonia,0,2800000,Bogota,Paula Rodriguez,MEDELLIN,
+383,V-1105,2024-05-11,C-055,P-010,Tablet 11,computo,2,1900000,Bogota,Jorge Martinez,CALI,Pyme
+384,V-1154,2024-03-27,C-019,P-002,Laptop Air 13,Computo,1,3100000,Medellin,Paula Martinez,medellin,Consumidor
+385,V-1283,2024-02-10,C-011,P-008,Smartphone X12,Telefonia ,1,2800000,Medellin,Felipe Lopez, Medellin,Corporativo
+386,V-1227,2024-01-16,C-002,P-002,Laptop Air 13,Computo ,1,3100000,Barranquilla,Ricardo Ramirez, Medellin,Consumidor
+387,V-1026,2024-07-15,C-017,P-005,Mouse Inalambrico,accesorios,1,120000,Cali,Valentina Diaz,Medellin,Pyme
+388,V-1197,07/08/2024,C-049,P-009,Smartphone Lite,TELEFONIA,1,1150000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+389,V-1197,07/08/2024,C-049,P-009,Smartphone Lite,TELEFONIA,1,1150000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+390,V-1065,2024-06-01,C-038,P-004,Teclado Mecanico,Accesorios ,2,290000,Medellin,Jorge Rodriguez,CALI,Consumidor
+391,V-1016,2024-03-22,C-036,P-001,Laptop Pro 14,computo,1,4200000,Medellin,Carlos Rodriguez, Cali,Corporativo
+392,V-1298,,C-060,P-007,Parlante Portatil,AUDIO,2,$ 420.000,Bogota,Diana Martinez,medellin,
+393,V-1110,2024-01-14,C-036,P-008,Smartphone X12,telefonia,2,2800000,Barranquilla,Carlos Rodriguez, Cali,Corporativo
+394,V-1337,,C-058,P-004,Teclado Mecanico,Accesorios ,3,290000,Cali,Diana Castro,CALI,Pyme
+395,V-1309,2024-11-18,C-044,P-009,Smartphone Lite,Telefonia,4,1150000,Medellin,Jorge Diaz,barranquilla,Consumidor
+396,V-1027,05/04/2024,C-037,P-002,Laptop Air 13,COMPUTO,2,3100000,Medellin,Camila Rodriguez, Bogota,Pyme
+397,V-1077,2024-08-16,C-049,P-010,Tablet 11,Computo,1,$ 1.900.000,Bogota,Ricardo Ramirez, Medellin,Corporativo
+398,V-1077,2024-08-16,C-049,P-010,Tablet 11,Computo,1,$ 1.900.000,Bogota,Ricardo Ramirez, Medellin,Corporativo
+399,V-1044,2024-11-09,C-035,P-007,Parlante Portatil,Audio,2,420000,Barranquilla,Paula Moreno,CALI,
+400,V-1281,02/10/2024,C-034,P-007,Parlante Portatil,Audio,1,420000,Bogota,Miguel Ramirez, Cali,Pyme
+401,V-1004,10/11/2024,C-043,P-001,Laptop Pro 14,COMPUTO,1,$ 4.200.000,Cali,Paula Ramirez,CALI,Pyme
+402,V-1387,2024-06-11,C-020,P-008,Smartphone X12,TELEFONIA,2,$ 2.800.000,Medellin,Ana Castro,Barranquilla,Corporativo
+403,V-1050,20/10/2024,C-009,P-003,Monitor 27,COMPUTO,2,1450000,Bogota,Jorge Lopez,BOGOTA,Pyme
+404,V-1030,2024-02-27,C-007,P-001,Laptop Pro 14,Computo,1,4200000,Bogota,Miguel Diaz,cali,Pyme
+405,V-1031,18/04/2024,C-007,P-002,Laptop Air 13,COMPUTO,2,3100000,,Miguel Diaz,cali,Pyme
+406,V-1122,14/08/2024,C-059,P-010,Tablet 11,COMPUTO,2,1900000,Barranquilla,Jorge Vargas, Medellin,Corporativo
+407,V-1116,2024-10-18,C-059,P-007,Parlante Portatil,Audio,1,$ 420.000,Cali,Jorge Vargas, Medellin,Corporativo
+408,V-1392,2024-03-25,C-044,P-010,Tablet 11,Computo,4,1900000,Cali,Jorge Diaz,barranquilla,Consumidor
+409,V-1217,2024-01-27,C-043,P-005,Mouse Inalambrico,ACCESORIOS,2,120000,Barranquilla,Paula Ramirez,CALI,Pyme
+410,V-1265,2024-03-08,C-044,P-008,Smartphone X12,Telefonia,1,$ 2.800.000,Medellin,Jorge Diaz,barranquilla,Consumidor
+411,V-1210,2024-03-25,C-009,P-002,Laptop Air 13,COMPUTO,2,$ 3.100.000,Bogota,Jorge Lopez,BOGOTA,Pyme
+412,V-1317,2024-07-26,C-004,P-001,Laptop Pro 14,computo,2,4200000,Barranquilla,Camila Rodriguez, Medellin,Consumidor
+413,V-1385,2024-04-21,C-026,P-008,Smartphone X12,TELEFONIA,-1,2800000,Medellin,Diana Moreno,cali,Consumidor
+414,V-1002,2024-09-15,C-037,P-010,Tablet 11,computo,2,$ 1.900.000,Cali,Camila Rodriguez, Bogota,Pyme
+415,V-1314,04/09/2024,C-058,P-005,Mouse Inalambrico,Accesorios ,2,$ 120.000,Barranquilla,Diana Castro,CALI,Pyme
+416,V-1023,17/04/2024,C-047,P-010,Tablet 11,Computo,2,1900000,Cali,Ricardo Vargas,Medellin,Pyme
+417,V-1318,13/06/2024,C-051,P-006,Audifonos,Audio ,2,350000,Cali,Miguel Lopez,bogota,
+418,V-1318,13/06/2024,C-051,P-006,Audifonos,Audio ,2,350000,Cali,Miguel Lopez,bogota,
+419,V-1320,05/06/2024,C-029,P-002,Laptop Air 13,computo,1,$ 3.100.000,Medellin,Diana Torres,Barranquilla,Consumidor
+420,V-1008,2024-05-21,C-013,P-008,Smartphone X12,Telefonia ,1,2800000,Barranquilla,Miguel Moreno,MEDELLIN,Corporativo
+421,V-1142,2024-05-28,C-017,P-007,Parlante Portatil,AUDIO,2,420000,Cali,Valentina Diaz,Medellin,Pyme
+422,V-1087,2024-11-26,C-004,P-009,Smartphone Lite,Telefonia,3,1150000,Bogota,Camila Rodriguez, Medellin,Consumidor
+423,V-1353,,C-036,P-004,Teclado Mecanico,ACCESORIOS,1,290000,Barranquilla,Carlos Rodriguez, Cali,Corporativo
+424,V-1242,2024-10-10,C-056,P-002,Laptop Air 13,Computo ,2,$ 3.100.000,Bogota,Valentina Rodriguez,medellin,Consumidor
+425,V-1216,2024-11-09,C-022,P-005,Mouse Inalambrico,accesorios,2,120000,,Jorge Moreno,MEDELLIN,
+426,V-1069,2024-09-05,C-045,P-001,Laptop Pro 14,computo,3,4200000,Medellin,Valentina Lopez,Barranquilla,Consumidor
+427,V-1051,11/02/2024,C-038,P-007,Parlante Portatil,audio,3,420000,Bogota,Jorge Rodriguez,CALI,Consumidor
+428,V-1157,2024-06-22,C-030,P-003,Monitor 27,Computo,1,1450000,Cali,Ana Lopez,Barranquilla,Pyme
+429,V-1253,08/03/2024,C-040,P-009,Smartphone Lite,TELEFONIA,1,$ 1.150.000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+430,V-1253,08/03/2024,C-040,P-009,Smartphone Lite,TELEFONIA,1,$ 1.150.000,Medellin,Jorge Gomez,BOGOTA,Consumidor
+431,V-1396,2024-07-10,C-003,P-005,Mouse Inalambrico,Accesorios,1,120000,Medellin,Ricardo Castro,medellin,Pyme
+432,V-1396,2024-07-10,C-003,P-005,Mouse Inalambrico,Accesorios,1,120000,Medellin,Ricardo Castro,medellin,Pyme
+433,V-1358,2024-03-25,C-023,P-003,Monitor 27,Computo,2,1450000,,Felipe Rodriguez,Bogota,Consumidor
+434,V-1255,2024-03-03,C-025,P-004,Teclado Mecanico,ACCESORIOS,4,290000,Bogota,Ana Rodriguez,MEDELLIN,Pyme
+435,V-1277,2024-05-08,C-028,P-010,Tablet 11,Computo ,3,1900000,Barranquilla,Ricardo Martinez,MEDELLIN,Corporativo
+436,V-1179,2024-03-27,C-025,P-003,Monitor 27,Computo ,2,1450000,,Ana Rodriguez,MEDELLIN,Pyme
+437,V-1282,08/10/2024,C-060,P-003,Monitor 27,COMPUTO,2,1450000,Cali,Diana Martinez,medellin,
+438,V-1391,2024-05-17,C-024,P-007,Parlante Portatil,Audio,1,420000,Cali,Ricardo Torres,Bogota,Corporativo
+439,V-1238,2024-07-12,C-001,P-001,Laptop Pro 14,Computo,1,$ 4.200.000,Barranquilla,Andres Martinez,CALI,Pyme
+440,V-1072,2024-08-17,C-048,P-001,Laptop Pro 14,COMPUTO,1,$ 4.200.000,Cali,Felipe Ramirez,CALI,Pyme
+441,V-1130,2024-05-08,C-025,P-002,Laptop Air 13,Computo,1,$ 3.100.000,Cali,Ana Rodriguez,MEDELLIN,Pyme
+442,V-1145,2024-02-25,C-046,P-006,Audifonos,Audio,2,$ 350.000,Barranquilla,Jorge Ramirez,BARRANQUILLA,Pyme
+443,V-1336,2024-11-25,C-050,P-009,Smartphone Lite,Telefonia,4,1150000,Barranquilla,Felipe Diaz,BOGOTA,Consumidor
+444,V-1134,13/05/2024,C-034,P-002,Laptop Air 13,Computo ,3,3100000,Medellin,Miguel Ramirez, Cali,Pyme
+445,V-1204,2024-09-06,C-043,P-009,Smartphone Lite,TELEFONIA,4,1150000,Medellin,Paula Ramirez,CALI,Pyme
+446,V-1394,2024-01-25,C-023,P-006,Audifonos,audio,2,350000,Cali,Felipe Rodriguez,Bogota,Consumidor
+447,V-1256,12/11/2024,C-018,P-006,Audifonos,audio,1,350000,Bogota,Diana Castro,Cali,Corporativo
+448,V-1073,2024-05-10,C-058,P-002,Laptop Air 13,computo,2,3100000,Bogota,Diana Castro,CALI,Pyme
+449,V-1397,2024-10-16,C-004,P-004,Teclado Mecanico,Accesorios ,1,290000,Cali,Camila Rodriguez, Medellin,Consumidor
+450,V-1236,2024-08-22,C-049,P-010,Tablet 11,computo,1,1900000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+451,V-1236,2024-08-22,C-049,P-010,Tablet 11,computo,1,1900000,Barranquilla,Ricardo Ramirez, Medellin,Corporativo
+452,V-1038,09/03/2024,C-056,P-010,Tablet 11,computo,3,1900000,Medellin,Valentina Rodriguez,medellin,Consumidor
