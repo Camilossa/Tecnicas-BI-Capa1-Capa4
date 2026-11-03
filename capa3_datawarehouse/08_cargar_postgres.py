@@ -13,7 +13,7 @@ from sqlalchemy import create_engine, text
 # -------------------------------------------------------------
 #! Cambia USUARIO y CLAVE por los tuyos.
 USUARIO = "postgres"
-CLAVE = "postgres"
+CLAVE = "123450"
 HOST = "localhost"
 PUERTO = "5432"
 BASE = "tecnoandina"
